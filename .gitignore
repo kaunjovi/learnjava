@@ -1,0 +1,13 @@
+# Eclipse generated files
+.project
+
+# Maven generated files
+.settings
+.classpath
+target/
+
+# Java post compilation files.
+*.class
+*.jar
+*.war
+*.ear
